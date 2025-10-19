@@ -55,7 +55,7 @@ This repository contains a text classification system for categorizing consumer 
 ![App Screenshot](https://drive.google.com/uc?id=1xSaXKHkpkmahzhbUjGZ-XCZuPTqyxwtP)
 
 ### Confusion Matrix
-![App Screenshot](https://drive.google.com/uc?id=14X7h7qRorbFy0wTJnE6tIiX0kyLQb9pC)
+![My Local Image](output1.png)
 
 ### Prediction Example
 ![My Local Image](output.png)
