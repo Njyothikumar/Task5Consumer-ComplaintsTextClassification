@@ -52,6 +52,7 @@ This repository contains a text classification system for categorizing consumer 
 ## Screenshots
 
 ### Accuracy
+![My Local Image](11.png)
 ![My Local Image](output2.png)
 
 ### Confusion Matrix
